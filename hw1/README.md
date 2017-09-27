@@ -1,8 +1,9 @@
 
 The script is for text data parsing and data visualization with python
+
 There are three functions in hw1.py: Parse_File, Data_Class, and Chart.
 
-Parse_File:
+**Parse_File:**
 
 	Preprocess the input link into the following format:
 	
@@ -26,14 +27,14 @@ Parse_File:
 		[0.2, 0.1, 0.3, 0.3, 0.1]
 	]
 
-Data_Class:
+**Data_Class:**
 
 	Determine the data class for the first argument.
 	E: stands for Education level
 	A: stands for Average monthly income
 	W: stands for Work environment
 
-Chart:
+**Chart:**
 
 	Determine the plotting method for the second argument
 	l: stands for line chart
