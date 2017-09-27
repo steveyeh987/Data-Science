@@ -26,12 +26,14 @@ Parse_File:
 	]
 
 Data_Class:
+
 	Determine the data class for the first argument.
 	E: stands for Education level
 	A: stands for Average monthly income
 	W: stands for Work environment
 
 Chart:
+
 	Determine the plotting method for the second argument
 	l: stands for line chart
 	b: stands for bar chart
