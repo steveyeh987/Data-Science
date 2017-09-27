@@ -3,6 +3,7 @@ The script is for text data parsing and data visualization with python
 There are three functions in hw1.py: Parse_File, Data_Class, and Chart.
 
 Parse_File:
+
 	Preprocess the input link into the following format:
 	
 	[
